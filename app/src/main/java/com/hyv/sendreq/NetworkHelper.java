@@ -18,7 +18,7 @@ import android.content.Context;
 
 public class NetworkHelper {
 
-    private static final String BASE_URL = "https://alive.hyv.moe"; // 替换为实际服务器地址
+    private static final String BASE_URL = "https://example.com"; // 替换为实际服务器地址
     private static RequestQueue requestQueue;
 
     public static void initialize(Context context) {
