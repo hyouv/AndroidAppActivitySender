@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SendReq</string>
+    <string name="accessibility_service_description">监控当前前台应用并上报状态到服务器</string>
+</resources>
